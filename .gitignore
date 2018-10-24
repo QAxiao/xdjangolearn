@@ -5,3 +5,5 @@ db.sqlite3
 mysite/__pycache__/
 *.pyc
 *.pyc
+*.pyc
+*.pyc
