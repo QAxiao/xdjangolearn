@@ -7,3 +7,5 @@ mysite/__pycache__/
 *.pyc
 *.pyc
 *.pyc
+login/migrations/0002_projectinfo.py
+login/migrations/0003_moduleinfo.py
